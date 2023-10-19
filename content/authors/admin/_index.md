@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pavel Sumetc
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pavel
+last_name: Sumetc
 
 # Status emoji
 status:

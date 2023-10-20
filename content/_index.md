@@ -62,27 +62,64 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Senior AI Engineer
+          company: Fuel50
+          company_url: 'https://fuel50.com/'
+          company_logo: org-Fuel50
+          location: New Zealand
+          date_start: '2023-06-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Design and develop artificial intelligence models and algorithms for the talent mobility products
+              * Develop scalable and efficient AI pipelines and infrastructure
+              * Build and maintain robust data processing, exploration, model training and evaluation tools
+              * Mentor and coach junior AI engineers and data scientists
+        - title: Technical Product Owner
+          company: Soul Machines
+          company_url: 'https://www.soulmachines.com/'
+          company_logo: org-sm
+          location: New Zealand
+          date_start: '2022-02-01'
+          date_end: '2023-01-25'
+          description: Product Ownership role in Autonomous Animation and Embodied UX teams.
+        - title: Senior Research and Development Engineer II
+          company: Soul Machines
+          company_url: 'https://www.soulmachines.com/'
+          company_logo: org-sm
+          location: New Zealand
+          date_start: '2017-03-01'
+          date_end: '2022-02-01'
+          description: |2-
+              Responsibilities include:
+
+              * Building models and coding algorithms for use with 3D embodied virtual agents
+              * Researching in the areas of Artificial Intelligence and Human-Computer Interaction
+              * Developing software tools and systems
+              * Contribute to software infrastructure and processes
+              * Collaborate with cross-functional teams, including product, engineering, and marketing to improve customer experience
+        - title: Lecturer
+          company: Military Aviation Engineering University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: Voronezh Region, Russian Federation
+          date_start: '2005-09-01'
+          date_end: '2013-03-01'
+          description: |2-
+              Courses: Computer Science, Mathematical Modelling Statistics, Computational Methods.
+
+              Research projects: Soft Tissue Mechanics, Biological Fluid Dynamics, Computational Hydrodynamics.
+        - title: CNC Programmer
+          company: Garment manufacturer "Forti"
+          company_url: ''
+          company_logo: 
+          location: Moscow, Russian Federation
+          date_start: '2004-09-01'
+          date_end: '2005-09-01'
+          description: |2-
+              * Programming knitting patterns for the industrial knitting machine Stoll
+              * Maintaining the knitting technological process.
     design:
       columns: '2'
   - block: accomplishments
@@ -98,29 +135,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.scrum.org/user/1178066
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-01-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Scrum.org
+          organization_url: https://www.scrum.org/
+          title: Professional Scrum Product Owner I
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://productinstitute.com/
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-03-03'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Product Institute
+          organization_url: https://productinstitute.com/
+          title: Product Management Foundations 
           url: ''
     design:
       columns: '2'

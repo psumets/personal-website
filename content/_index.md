@@ -151,6 +151,30 @@ sections:
           organization_url: https://productinstitute.com/
           title: Product Management Foundations 
           url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/93QXGQGE25EJ
+          date_end: ''
+          date_start: '2021-09-19'
+          description: 'GitLab through Coursera'
+          organization: Coursera
+          organization_url: https://www.coursera.org/
+          title: How to Manage a Remote Team 
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/DDQWK54DRFC6
+          date_end: ''
+          date_start: '2021-08-04'
+          description: 'University of Minnesota through Coursera'
+          organization: Coursera
+          organization_url: https://www.coursera.org/
+          title: Agile Software Development 
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/XGXGK6Z3462R
+          date_end: ''
+          date_start: '2021-06-24'
+          description: 'University of Minnesota through Coursera'
+          organization: Coursera
+          organization_url: https://www.coursera.org/
+          title: Engineering Practices for Building Quality Software 
+          url: ''
     design:
       columns: '2'
   - block: collection

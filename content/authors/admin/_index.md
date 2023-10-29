@@ -54,67 +54,67 @@ skills:
     items:
     - name: C++
       description: ''
-      #percent: 80
+      percent: 80
       icon: 
       icon_pack: 
     - name: OpenCV
       description: ''
-      #percent: 80
+      percent: 60
       icon: 
       icon_pack: 
     - name: Eigen
       description: ''
-      #percent: 80
+      percent: 70
       icon: 
       icon_pack:
     - name: Python
       description: ''
-      #percent: 80
-      icon: python
-      icon_pack: fab
+      percent: 80
+      #icon: python
+      #icon_pack: fab
     - name: Scikit-learn
       description: ''
-      #percent: 80
+      percent: 60
       icon: 
       icon_pack:
     - name: Keras
       description: ''
-      #percent: 80
+      percent: 60
       icon: 
       icon_pack: 
     - name: PyTorch
       description: ''
-      #percent: 80
+      percent: 70
       icon: 
       icon_pack:
     - name: spaCy
       description: ''
-      #percent: 80
+      percent: 60
       icon: 
       icon_pack:
     - name: LangChain
       description: ''
-      #percent: 80
+      percent: 60
       icon: 
       icon_pack:
     - name: Unity
       description: ''
-      #percent: 80
+      percent: 40
       icon: 
       icon_pack:
     - name: Maya
       description: 'MEL scripting language'
-      #percent: 80
+      percent: 40
       icon: 
       icon_pack:
     - name: Git
       description: ''
-      #percent: 80
+      percent: 80
       icon: 
       icon_pack:
     - name: Jenkins
       description: ''
-      #percent: 80
+      percent: 60
       icon: 
       icon_pack:
     #- name: Data Science
@@ -131,62 +131,62 @@ skills:
     items:
     - name: Developing and coding solution algorithms
       description: 'expertise in modelling mechanical systems'
-      #percent: 80
+      percent: 100
       icon: 
       icon_pack:
     - name: Computational geometry and optimization techniques
       description: ''
-      #percent: 80
+      percent: 80
       icon: 
       icon_pack:
     - name: Embodied virtual agent technology stack
       description: '3D animation, text to speech, text to gesture, agent behaviour modelling'
-      #percent: 80
+      percent: 90
       icon: 
       icon_pack:
     - name: 3D geometrical shape processing and computer animation
       description: '4 patented technologies'
-      #percent: 80
+      percent: 90
       icon: 
       icon_pack:
     - name: Expertise in signal processing techniques
       description: ''
-      #percent: 80
+      percent: 80
       icon: 
       icon_pack:
     - name: Machine learning techniques 
       description: 'Computer Vision, Generative Models, NLP, NLU, LLM'
-      #percent: 80
+      percent: 70
       icon: 
       icon_pack:
     - name: Sentiment Analysis, Recommender and Dialog Systems  
       description: ''
-      #percent: 80
+      percent: 70
       icon: 
       icon_pack:
     - name: Systems architecture and software development  
       description: ''
-      #percent: 80
+      percent: 60
       icon: 
       icon_pack:
     - name: Technical product management from ideation to release 
       description: ''
-      #percent: 80
+      percent: 80
       icon: 
       icon_pack:
     - name: SCRUM product owner practices
       description: 'product roadmap, backlog and release management'
-      #percent: 80
+      percent: 80
       icon: 
       icon_pack:
     - name: Managing complex product requirements across engineers, designers and marketing teams
       description: ''
-      #percent: 80
+      percent: 90
       icon: 
       icon_pack:
     - name: Cross-functional team leadership and communication in Agile environment
       description: ''
-      #percent: 80
+      percent: 90
       icon: 
       icon_pack:
   - name: Hobbies
@@ -205,7 +205,7 @@ skills:
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera-retro
         icon_pack: fas
       - name: Spending quality time with my family

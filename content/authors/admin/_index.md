@@ -251,6 +251,8 @@ I am a software engineer, researcher and scientist with a passion for technologi
 
 The most recent and fascinating journey I have experienced is working at a startup company to create AI-driven autonomous digital people with real-time interaction. My job was developing a technology stack to drive real-time 3D animation, modelling digital agent behavior and understanding user intents and emotional states. It was an invaluable experience that required the ability to connect arts and deep tech, communicate with artists, social scientists, software engineers and a product team to bring it to life. Imagination and creativity were materialized in new patented technologies and successful commercial products.   
 
-I am open to offer my expertise in animation technology and natural language processing for collaboration and consultation services. Whether you're looking to breathe life into captivating 3D animations or seeking to enhance your AI-driven virtual assistants, I'm here to provide innovative solutions and guidance. Let's embark on a journey to create engaging, cutting-edge experiences together, combining the magic of animation technology with the power of NLP to transform your projects into something truly remarkable.
+---
+
+*I am open to offer my expertise in animation technology and natural language processing for collaboration and consultation services. Whether you're looking to breathe life into captivating 3D animations or seeking to enhance your AI-driven virtual assistants, I'm here to provide innovative solutions and guidance. Let's embark on a journey to create engaging, cutting-edge experiences together, combining the magic of animation technology with the power of NLP to transform your projects into something truly remarkable.*
 
 {style="text-align: justify;"}

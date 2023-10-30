@@ -25,7 +25,7 @@ role: Senior AI Engineer
 #    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: An experienced software engineer and researcher with PhD in Engineering Science.
+#bio: An experienced software engineer and researcher with PhD in Engineering Science.
 
 # Interests to show in About widget
 interests:

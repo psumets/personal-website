@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Pavel Sumets
+title: Pavel Sumetc
 
 # Name pronunciation (optional)
 #name_pronunciation: Pavel Sumetc
 
 # Full name (for SEO)
 first_name: Pavel
-last_name: Sumets
+last_name: Sumetc
 
 # Status emoji
 status:
@@ -196,8 +196,8 @@ skills:
       - name: Performing magic tricks
         description: ''
         percent: 100
-        icon: 
-        icon_pack: 
+        icon: wand-magic-sparkles
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 60
@@ -211,8 +211,8 @@ skills:
       - name: Spending quality time with my family
         description: ''
         percent: 100
-        icon: 
-        icon_pack: 
+        icon: people-group
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -222,27 +222,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/psumets
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/pavel-sumetc-3a7571163/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -250,5 +250,7 @@ highlight_name: true
 I am a software engineer, researcher and scientist with a passion for technologies that bring value. By exploring different tech realms, I have established myself as an expert in artificial intelligence, systems architecture, and software development. I'm all about using the latest tech to solve problems with a creative twist. My experience includes working in academia as a lecturer and scientist, researching and developing new technologies for use in commercial production, coding and writing software tools and systems for deep-tech companies. Having a background in applied mathematics, I love using math and systematic approaches to make software and systems work better and smarter. 
 
 The most recent and fascinating journey I have experienced is working at a startup company to create AI-driven autonomous digital people with real-time interaction. My job was developing a technology stack to drive real-time 3D animation, modelling digital agent behavior and understanding user intents and emotional states. It was an invaluable experience that required the ability to connect arts and deep tech, communicate with artists, social scientists, software engineers and a product team to bring it to life. Imagination and creativity were materialized in new patented technologies and successful commercial products.   
+
+I am open to offer my expertise in animation technology and natural language processing for collaboration and consultation services. Whether you're looking to breathe life into captivating 3D animations or seeking to enhance your AI-driven virtual assistants, I'm here to provide innovative solutions and guidance. Let's embark on a journey to create engaging, cutting-edge experiences together, combining the magic of animation technology with the power of NLP to transform your projects into something truly remarkable.
 
 {style="text-align: justify;"}

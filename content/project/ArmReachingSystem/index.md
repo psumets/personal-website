@@ -29,5 +29,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Avatar arm reaching system in 3D environment.
+Avatar arm reaching system in 3D environment work done at [Soul Machines](https://www.youtube.com/watch?v=27UiAo3OyeE).
+One more [demo](https://www.youtube.com/watch?v=rjclQ3m5JRw)
 

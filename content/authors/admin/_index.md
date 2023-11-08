@@ -179,11 +179,11 @@ skills:
       percent: 80
       icon: 
       icon_pack:
-    - name: Managing complex product requirements across engineers, designers and marketing teams
-      description: ''
-      percent: 90
-      icon: 
-      icon_pack:
+#    - name: Managing complex product requirements across engineers, designers and marketing teams
+#      description: ''
+#      percent: 90
+#      icon: 
+#      icon_pack:
     - name: Cross-functional team leadership and communication in Agile environment
       description: ''
       percent: 90

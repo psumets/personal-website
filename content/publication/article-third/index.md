@@ -28,8 +28,8 @@ abstract: It is examined a mathematical model illustrating propagation of a puls
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: false
 
 # links:

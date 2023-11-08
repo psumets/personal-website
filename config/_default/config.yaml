@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pavel Sumetc # Website name
-baseURL: 'http://www.pavelsumetc.com/' # Website URL
+baseURL: 'https://www.pavelsumetc.com/' # Website URL
 
 ############################
 ## LANGUAGE

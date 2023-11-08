@@ -32,7 +32,8 @@ abstract: Technology for real-time 3D virtual avatar animation including lip mot
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Animation Technologies
+- Computer Vision
 featured: true
 
 # links:

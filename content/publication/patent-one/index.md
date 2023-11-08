@@ -33,7 +33,7 @@ abstract: A solution to the problem of computing a continuous stream of motion t
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Animation Technologies
 featured: true
 
 # links:

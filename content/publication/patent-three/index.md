@@ -33,7 +33,7 @@ abstract: Technology for driving skeletal animation in real time using solutions
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Animation Technologies
 featured: false
 
 # links:
